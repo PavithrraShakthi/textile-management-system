@@ -1,0 +1,1 @@
+This project is a simple console-based textile shop system built using Python and MySQL. It allows users to view product categories, choose items, enter quantity, and automatically calculates the total bill. The program connects to a database to fetch categories and products, making it a basic example of database-driven application development.
